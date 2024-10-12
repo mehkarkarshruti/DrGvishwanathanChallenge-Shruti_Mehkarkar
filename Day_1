@@ -28,7 +28,6 @@ word2:    p   q
 merged: a p b q c   d
 
 Solution:
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
